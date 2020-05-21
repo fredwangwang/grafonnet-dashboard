@@ -1,0 +1,6 @@
+[submodule "grafonnet"]
+	path = grafonnet
+	url = git@github.com:grafana/grafonnet-lib.git
+[submodule "grafonnet-lib"]
+	path = grafonnet-lib
+	url = git@github.com:grafana/grafonnet-lib.git

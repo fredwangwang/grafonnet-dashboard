@@ -1,0 +1,14 @@
+{
+    "systemHealthy": {
+        "expr": "system_healthy",
+        "title": "Healthiness of the System"
+    },
+    "cpu": {
+        "expr": "cpu",
+        "title": "CPU Usage"
+    },
+    "memory":  {
+        "expr": "memory",
+        "title": "Memory Usage"
+    }
+}
